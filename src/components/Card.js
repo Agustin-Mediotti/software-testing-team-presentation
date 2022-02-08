@@ -185,6 +185,7 @@ const dianaHobbies = (
 );
 
 
+
 const agus = (
     <Popover id="popover-basic">
         <Popover.Header as="h3">Expectativas en Jala</Popover.Header>
